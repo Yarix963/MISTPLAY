@@ -1,7 +1,5 @@
 <p align="center">
-<img src="./src/CyanTeam.jpg" width="130" height="140"/>
-</p>
-<img src="./src/otaku.jpg" width="130" height="120"/>
+<img src="./src/otaku.jpg" width="720" height="1280"/>
 </p>
 <a href="#"><img title="YARIX" src="https://img.shields.io/badge/CyanBot | Yarix☻-red?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
 </p>
