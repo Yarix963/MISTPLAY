@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./src/CyanTeam.jpg" width="140" height="140"/>
+<img src="./src/CyanTeam.jpg" width="150" height="150"/>
 </p>
 <p align="center">
 <a href="#"><img title="CyanTeam" src="https://img.shields.io/badge/CyanBot | Yarix☻-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
