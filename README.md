@@ -35,3 +35,6 @@
 > npm start
 ```
 
+<p align="center">
+<a href="#"><img title="YARIX" src="https://img.shields.io/badge/MUCHAS GRASIAS | Yarix☻-red?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
+</p>
