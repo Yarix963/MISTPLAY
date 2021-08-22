@@ -1,8 +1,12 @@
 <p align="center">
 <img src="./src/CyanTeam.jpg" width="150" height="150"/>
 </p>
+p align="center">
+<img src="./src/assistant.jpg" width="150" height="150"/>
+</p>
+
 <p align="center">
-<a href="#"><img title="CyanTeam" src="https://img.shields.io/badge/CyanBot | Yarix☻-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
+<a href="#"><img title="YARIX" src="https://img.shields.io/badge/CyanBot | Yarix☻-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Yarix963/MISTPLAY"><img title="Author" src="https://img.shields.io/badge/author-YARIX-green?colorA=%00ff00style=for-the-badge&logo=github"></a>
