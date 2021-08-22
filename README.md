@@ -4,7 +4,7 @@
 <img src="./src/otaku.jpg" width="150" height="150"/>
 </p>
 
-<html><h1  style="text-align:center;"><font color="red"> BOT CREADO POR YARIX
+<html><h1  style="text-align:center;"><font color="#573636"> BOT CREADO POR YARIX
 
 <p align="center">
 <a href="#"><img title="YARIX" src="https://img.shields.io/badge/CyanBot | Yarix☻-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
