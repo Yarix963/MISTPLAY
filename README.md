@@ -1,6 +1,7 @@
 <p align="center">
-<img src="./src/otaku.jpg" width="72" height="128"/>
+<img src="./src/otaku.jpg" width="360" height="640"/>
 </p>
+<p align="center">
 <a href="#"><img title="YARIX" src="https://img.shields.io/badge/CyanBot | Yarix☻-red?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
 </p>
 <p align="center">
