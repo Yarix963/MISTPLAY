@@ -36,5 +36,5 @@
 ```
 
 <p align="center">
-<a href="#"><img title "WEY" src="https://img.shields.io/badge/LA MALOGRE Y NO FUNCIONA XDDD-green?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
+<a href="#"><img title "WEY" src="https://img.shields.io/badge/LA MALOGRE Y NO FUNCIONA XDDD-red?colorA=%00&colorB=%23000000&style=for-the-badge"></a>
 </p>
